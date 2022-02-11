@@ -1,9 +1,9 @@
-# Import-Export-String
+# Import and Export a String using ES6 Module Syntax
 
-Create two files exportArray.mjs, importArray.mjs parallel to README.md file.
+Create two files `exportString.mjs`, `importString.mjs` parallel to `README.md` file.
 
-Write an array with the values as "countries", 190, "continents", 7, false, 6.2 in the exportArray.mjs file and export it using the default export syntax.
+Write a string `Be Happy and Safe` in the file `exportString.mjs` and export it using the default export syntax.
 
-Import the array in the importArray.mjs file.
+Import the string in the `importString.mjs` file.
 
-Use the ES6 module syntax.
+<b>Use ES6 module syntax</b>.
